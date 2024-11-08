@@ -1,6 +1,5 @@
 # folders
 .vscode
-lab2
 lab1/kir
 
 # text files
@@ -26,6 +25,7 @@ lab1/kir
 *.so
 *.dylib
 *.dll
+!opslib.dll
 
 # Fortran module files
 *.mod
@@ -41,3 +41,4 @@ lab1/kir
 *.exe
 *.out
 *.app
+!fcalc.exe
