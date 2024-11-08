@@ -73,6 +73,5 @@ int main(int argc, char** argv) {
 			cout << "Неверный аргумент. Используйте --help для справки.";
 		}
 	}
-	return 0;
-	
+	return 0;	
 }
